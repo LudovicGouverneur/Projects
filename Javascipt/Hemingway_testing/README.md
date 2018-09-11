@@ -9,10 +9,11 @@ The goals is to implement [MVC-LH](https://github.com/elewa-academy/mvc-lh.git) 
 ## Specs
 
 Users can : 
-  * test themselves
-  * run test cases
-  * CRUD test cases with validation
-  * See a trace of calls
+* read the docs  
+* test themselves
+* run test cases
+* CRUD test cases with validation
+* See a trace of calls
 
 Dev can run tests in terminal
 
