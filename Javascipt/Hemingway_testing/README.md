@@ -6,6 +6,9 @@ The app implements as many cases as possible from the book : "if Hemingway wrote
 
 The goals is to implement [MVC-LH](https://github.com/elewa-academy/mvc-lh.git) architecture.
 
+Also read about project management tool as user stories, scrum, agile, ... https://www.mountaingoatsoftware.com/agile
+
+
 ## Specs
 
 Users can : 
